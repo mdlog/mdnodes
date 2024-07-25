@@ -5,7 +5,7 @@ module.exports = {
   networks: {
     swisstronik: {
       url: "https://json-rpc.testnet.swisstronik.com/", //URL of the RPC node for Swisstronik.
-      accounts: ["0x49db932cca4ff1f92e1377564ccd478b8939958483c45556583670140407cac7"], //Your private key starting with "0x" 
+      accounts: ["0x5"], //Your private key starting with "0x" 
       //Make sure you have enough funds in this wallet to deploy the smart contract
     },
   },
